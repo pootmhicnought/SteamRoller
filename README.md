@@ -1,6 +1,6 @@
 # SteamRoller
 ## Why?
-Anyone that's wanted to run Steam offline finds that Steam loves to nag about it.  There are settings in loginusers.vdf that will make the process less annoying however Steam resets those values on exit.
+Anyone that's wanted to run Steam offline finds that it loves to nag about offline mode.  There are settings in loginusers.vdf that will make the process less annoying however those are reset when steam exits.
 
 So I created a simple power shell script that enforces the users choice of offline or online.
 
