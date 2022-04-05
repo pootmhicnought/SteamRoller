@@ -1,7 +1,7 @@
 # SteamRoller
-# Why?
+## Why?
 Tired of steam making it difficult to run offline?  SteamRoller is the answer.
-# What?
+## What?
 SteamRoller is a powershell script that modifies Steam user config and launches Steam in the chosen mode.  Includes a simple InnoSetup installer that handles installation.
 
 ## Pre-requisites
