@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "SteamRoller"
-#define MyAppVersion "0.1.0.0"
+#define MyAppVersion "0.1.0.1"
 #define MyAppPublisher "Lightly Carnaged"
 
 [Setup]
@@ -19,7 +19,7 @@ DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 OutputBaseFilename=SteamRoller_Setup_{#MyAppVersion}
 OutputDir=.\
-SetupIconFile=D:\!projects\Trunk\SteamRoller\Icons\steamroller_offline.ico
+SetupIconFile=.\Icons\steamroller_offline.ico
 Compression=lzma
 SolidCompression=yes
 SetupLogging=yes
